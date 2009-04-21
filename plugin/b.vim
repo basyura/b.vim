@@ -1,5 +1,5 @@
 scriptencoding utf-8
-" hatena.vim
+" b.vim
 " Author : basyura <basyura@gmail.com>
 " version: $Id$
 " 
