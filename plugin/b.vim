@@ -10,6 +10,7 @@ scriptencoding utf-8
 "    ブックマークリストにパスを追加
 " :BE 
 "    ブックマークリストを編集
+"    wq で保存
 "
 
 command! B   call <SID>Blist()
