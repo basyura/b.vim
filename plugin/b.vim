@@ -73,7 +73,7 @@ function! B_Jump()
     " ディレクトリの場合
     if isdirectory(path)
         " 編集開始
-        execute "e! " . getline(".")
+        execute "e! " . substitute(path," ","\\\\ ","g")
         " マップを戻す
         noremap <Enter> <Enter>
     else
