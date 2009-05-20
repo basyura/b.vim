@@ -1,11 +1,11 @@
 book mark plugin for vim
 
 :B
-  ƒuƒbƒNƒ}[ƒNƒŠƒXƒg‚ð•\Ž¦
-  ƒuƒbƒNƒ}[ƒNƒŠƒXƒg‚Å Enter ‚ð‰Ÿ‚·‚Æ netrw ‚Å•\Ž¦
+  ãƒ–ãƒƒã‚¯ãƒžãƒ¼ã‚¯ãƒªã‚¹ãƒˆã‚’è¡¨ç¤º
+  ãƒ–ãƒƒã‚¯ãƒžãƒ¼ã‚¯ãƒªã‚¹ãƒˆã§ Enter ã‚’æŠ¼ã™ã¨ netrw ã§è¡¨ç¤º
 :BA
-  ƒuƒbƒNƒ}[ƒNƒŠƒXƒg‚ÉƒpƒX‚ð’Ç‰Á
+  ãƒ–ãƒƒã‚¯ãƒžãƒ¼ã‚¯ãƒªã‚¹ãƒˆã«ãƒ‘ã‚¹ã‚’è¿½åŠ 
 :BE
-  ƒuƒbƒNƒ}[ƒNƒŠƒXƒg‚ð•ÒW 
-  wq ‚Å•Û‘¶
+  ãƒ–ãƒƒã‚¯ãƒžãƒ¼ã‚¯ãƒªã‚¹ãƒˆã‚’ç·¨é›† 
+  wq ã§ä¿å­˜
 
